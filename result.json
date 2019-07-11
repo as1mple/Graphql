@@ -1,0 +1,2625 @@
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "PT",
+                "city": "Lisboa"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "portuguese"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "IT",
+                "city": "Padova"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Yourbanflat",
+                "languagesSpoken": [
+                    "english",
+                    "german",
+                    "spanish",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": [
+                    {
+                        "phoneNumber": "+39  3938029345"
+                    }
+                ]
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Morro Jable Fuerteventura"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GR",
+                "city": "\u0421\u043f\u0430\u0440\u0442\u0438\u044f"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Our family is a resident of Kefalonia. We love the island and are happy to share with you this love! ",
+                "whyHere": "We built and decorated the cottages with sincere diligence, trying to convey to you our joy of your stay with us.\nWe hope, you will love cute Spartia beaches that offer clear, warm waters and picturesque coastline. \nAll this beauty is just 2 min walk from the cottages.\n",
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": "We offer charming, quiet environment, home atmosphere, true Greek hospitality - come and enjoy!"
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "russian",
+                    "greek"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/69996159-91EC-4FF9-8DC7-162FD2276802.4.1",
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Tossa de Mar"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Costa del Silencio"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Carmen Davies",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "PT",
+                "city": "Vilar do Pinheiro"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "portuguese"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/47B9A16F-7901-4D05-9964-E325E6219B89.4.1",
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "0",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "\u0160ibenik"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Roca Llisa"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2013",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Okrug Gornji"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Benadalid"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "iloftmalaga",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2013",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Alicante"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Benjam\u00edn Seva",
+                "languagesSpoken": [
+                    "english",
+                    "spanish",
+                    "English I prefer by e-mail."
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2009",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "IT",
+                "city": "Bergamo"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Bergamo Exclusive Holiday Home",
+                "languagesSpoken": [
+                    "english",
+                    "italian"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/EE773AAE-4D95-46FD-81D5-A9AD50F16B20.4.1",
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "",
+                "whyHere": "",
+                "storyPhoto": null,
+                "yearPurchased": "0",
+                "uniqueBenefits": ""
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "IT",
+                "city": "Castiglione d'Orcia"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Halldis",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Veeve specialises in London home rentals. From a cool Shoreditch penthouse, to a Notting Hill studio or family home in Chelsea, Veeve has over 1000 hand-picked properties to choose from. While homeowners are away, they take care of everything so you don\u2019t have to lift a finger. Along with personal recommendations for the local area, a bespoke service and - if the mood takes you - extra home comforts (airport pick-up, fridge fill and babysitting to name a few), Veeve has mastered a way to help guests live like Londoners.\n\nCharacterful homes. Dedicated service. Memorable stays.",
+                "whyHere": "This lovely home can accommodate up to 8 guests. You can reach Central London in 20 minutes from here.",
+                "storyPhoto": null,
+                "yearPurchased": "2011",
+                "uniqueBenefits": "No smoking, pets and parties! Please note there are 2 airbeds available, a single and a double to sleep a total of 10 people."
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "portuguese",
+                    "russian",
+                    "italian",
+                    "polish",
+                    "hungarian",
+                    "arabic"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/A414D777-1634-4C49-AB98-EA783F09563F.4.1",
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Orebi\ufffd\ufffd"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "PUERTO DEL CARMEN"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "HostMaker",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Costa Brava"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "nerja"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "NL",
+                "city": "Egmond aan Zee"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "2017",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Belvilla Holiday Rentals",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "dutch"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Torrox"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2015",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": [
+                    {
+                        "phoneNumber": "+44  1622655920"
+                    }
+                ]
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "ROTA, Cadiz, Espa\u00f1a"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Mar\u00eda",
+                "languagesSpoken": [
+                    "english",
+                    "spanish",
+                    "italian",
+                    "swedish",
+                    "danish",
+                    "norwegian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2013",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "Hayling Island"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "0",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Laura Nix",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2009",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Cullera"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "SingulaStays",
+                "languagesSpoken": [
+                    "english",
+                    "spanish",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2013",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "BE",
+                "city": "Stavelot"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "2017",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Belvilla Holiday Rentals",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "dutch"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Madrid"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Mad4Rent",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "italian",
+                    "arabic",
+                    "finnish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2015",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Veeve specialises in London home rentals. From a cool Shoreditch penthouse, to a Notting Hill studio or family home in Chelsea, Veeve has over 1000 hand-picked properties to choose from. While homeowners are away, they take care of everything so you don\u2019t have to lift a finger. Along with personal recommendations for the local area, a bespoke service and - if the mood takes you - extra home comforts (airport pick-up, fridge fill and babysitting to name a few), Veeve has mastered a way to help guests live like Londoners.\n\nCharacterful homes. Dedicated service. Memorable stays.",
+                "whyHere": "Sleeping up to 4 people, this modern, cosy home is located just by Chalk Farm Station, so you can reach Central London in 10 minutes. With Primrose Hill, Regent's Park and Camden Town minutes away, you can find both relaxing and entertaining environments right on your doorstep.",
+                "storyPhoto": null,
+                "yearPurchased": "2011",
+                "uniqueBenefits": "No smoking and parties! This home comes with a cat and the owner would appreciate if you can feed it once a day."
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "portuguese",
+                    "russian",
+                    "italian",
+                    "polish",
+                    "hungarian",
+                    "arabic"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/547827AF-8AAC-4FC6-8634-B830F51C057A.4.1",
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "PT",
+                "city": "Albufeira"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "OCVillas",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "portuguese"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2012",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": [
+                    {
+                        "phoneNumber": "967454911"
+                    }
+                ]
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Kali"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "IT",
+                "city": "Fuore"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "spanish",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2015",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Orebi\u0107"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Benadalid"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "iloftmalaga",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2013",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "Chelmsford"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "IT",
+                "city": "Torre Suda"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Hintown",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "spanish",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2015",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Pe\u00f1iscola"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Fautor (Pe\u00f1iscarl\u00f3n) ",
+                "languagesSpoken": [
+                    "french",
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "MQ",
+                "city": "ducos"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "french",
+                    "german"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "NL",
+                "city": "Egmond aan Zee"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "2017",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Belvilla Holiday Rentals",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "dutch"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Veeve specialises in London home rentals. From a cool Shoreditch penthouse, to a Notting Hill studio or family home in Chelsea, Veeve has over 1000 hand-picked properties to choose from. While homeowners are away, they take care of everything so you don\u2019t have to lift a finger. Along with personal recommendations for the local area, a bespoke service and - if the mood takes you - extra home comforts (airport pick-up, fridge fill and babysitting to name a few), Veeve has mastered a way to help guests live like Londoners.\n\nCharacterful homes. Dedicated service. Memorable stays.",
+                "whyHere": "This home sleeps 6-8 people, boasting a lovely private garden and is located in one of the most sought after areas in London, with Hampstead Station just 2 minutes away.",
+                "storyPhoto": null,
+                "yearPurchased": "2011",
+                "uniqueBenefits": "No smoking, pets and parties! Please note there are 2 single airbeds available to sleep 2 extra people."
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "portuguese",
+                    "russian",
+                    "italian",
+                    "polish",
+                    "hungarian",
+                    "arabic"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/3F047862-D8D4-4173-9951-CFFC592F5D8A.4.1",
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "HostMaker",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "Edinburgh"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Veeve specialises in London home rentals. From a cool Shoreditch penthouse, to a Notting Hill studio or family home in Chelsea, Veeve has over 1000 hand-picked properties to choose from. While homeowners are away, they take care of everything so you don\u2019t have to lift a finger. Along with personal recommendations for the local area, a bespoke service and - if the mood takes you - extra home comforts (airport pick-up, fridge fill and babysitting to name a few), Veeve has mastered a way to help guests live like Londoners.\n\nCharacterful homes. Dedicated service. Memorable stays.",
+                "whyHere": "Sleeping up to 4 people right beside River Thames, this modern immaculate flat is located in Chelsea, minutes away from Sloane Square.",
+                "storyPhoto": null,
+                "yearPurchased": "2011",
+                "uniqueBenefits": "No smoking, pets and parties!"
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "portuguese",
+                    "russian",
+                    "italian",
+                    "polish",
+                    "hungarian",
+                    "arabic"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/08E3F438-9AE5-4BCF-8148-22B2047150DC.4.1",
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Meis"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Vrsi"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Rogoznica"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Gran Alacant"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Trogir"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "IT",
+                "city": "Lido di Pomposa"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Cristian Cavalieri D'Oro",
+                "languagesSpoken": [
+                    "english",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Altea"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Veeve specialises in London home rentals. From a cool Shoreditch penthouse, to a Notting Hill studio or family home in Chelsea, Veeve has over 1000 hand-picked properties to choose from. While homeowners are away, they take care of everything so you don\u2019t have to lift a finger. Along with personal recommendations for the local area, a bespoke service and - if the mood takes you - extra home comforts (airport pick-up, fridge fill and babysitting to name a few), Veeve has mastered a way to help guests live like Londoners.\n\nCharacterful homes. Dedicated service. Memorable stays.",
+                "whyHere": "Sleeping up to 5 people, this characterful home boasts a large garden and is uniquely designed to inspire and provide comfort. Located in a lovely North London area, you can reach Central London in 15 minutes.",
+                "storyPhoto": null,
+                "yearPurchased": "2011",
+                "uniqueBenefits": "No smoking, pets and parties. This home comes with a lovely cat called Tommy."
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "portuguese",
+                    "russian",
+                    "italian",
+                    "polish",
+                    "hungarian",
+                    "arabic"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/BBF01DCA-34F1-486F-AB81-1F51C441EC46.4.1",
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "Laurencekirk"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "0",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2015",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": [
+                    {
+                        "phoneNumber": "+  "
+                    }
+                ]
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Lloret de Mar"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Joan PERELLO TIMONEDA",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "spanish",
+                    "russian",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Veeve specialises in London home rentals. From a cool Shoreditch penthouse, to a Notting Hill studio or family home in Chelsea, Veeve has over 1000 hand-picked properties to choose from. While homeowners are away, they take care of everything so you don\u2019t have to lift a finger. Along with personal recommendations for the local area, a bespoke service and - if the mood takes you - extra home comforts (airport pick-up, fridge fill and babysitting to name a few), Veeve has mastered a way to help guests live like Londoners.\n\nCharacterful homes. Dedicated service. Memorable stays.",
+                "whyHere": "Sleeping 7 people, this stunning home is tastefully decorated and boasts comfort and light. The house is just minutes away from Fulham Broadway with good links to the city centre.",
+                "storyPhoto": null,
+                "yearPurchased": "2011",
+                "uniqueBenefits": "No smoking and parties! This home comes with a lovely cat. The cleaner could come and feed it, but if you do not want to be disturbed, we kindly ask you to feed it instead. He is an outdoor cat that requires feeding every morning and evening."
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "portuguese",
+                    "russian",
+                    "italian",
+                    "polish",
+                    "hungarian",
+                    "arabic"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/1F45A7F7-0DAE-45C7-94E1-EB62C13BDFBC.4.1",
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GR",
+                "city": "Tzane"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Owner/Property Manager",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "greek"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": [
+                    {
+                        "phoneNumber": "+30  2108907100"
+                    },
+                    {
+                        "phoneNumber": "6932304041"
+                    },
+                    {
+                        "phoneNumber": "6932304041"
+                    }
+                ]
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "\u0160ibenik"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Morro Jable Fuerteventura"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Alhaur\u00edn el Grande"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Juan Cubo",
+                "languagesSpoken": [
+                    "english",
+                    "spanish",
+                    "Spanish and a little English"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2013",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Samobor"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "2017",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Belvilla Holiday Rentals",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "dutch"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Okrug Gornji"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Barcelona"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Costa del Silencio"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Carmen Davies",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "Edinburgh"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/3F028BD7-8020-4005-BB8E-1877059C5728.4.1",
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "BE",
+                "city": "Jalhay"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "2017",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Belvilla Holiday Rentals",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "dutch"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "London"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Veeve specialises in London home rentals. From a cool Shoreditch penthouse, to a Notting Hill studio or family home in Chelsea, Veeve has over 1000 hand-picked properties to choose from. While homeowners are away, they take care of everything so you don\u2019t have to lift a finger. Along with personal recommendations for the local area, a bespoke service and - if the mood takes you - extra home comforts (airport pick-up, fridge fill and babysitting to name a few), Veeve has mastered a way to help guests live like Londoners.\n\nCharacterful homes. Dedicated service. Memorable stays.",
+                "whyHere": "Sleeping up to 12 guests, this stylish house boasts a verdant garden fitted with a comfy hammock and is located just a stone\u2019s throw away from the River Thames.",
+                "storyPhoto": null,
+                "yearPurchased": "2011",
+                "uniqueBenefits": "No smoking, pets and parties! Please note there is a single mattress available to sleep one extra person,  this house accommodating 12 people in total.  * Keep in mind for allergies: a dog lives here and it will be traveling with the owner.\n"
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "portuguese",
+                    "russian",
+                    "italian",
+                    "polish",
+                    "hungarian",
+                    "arabic"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/3E626321-EED0-4CED-A6DE-72E20025AF35.4.1",
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "NL",
+                "city": "Julianadorp"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "2017",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Belvilla Holiday Rentals",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "dutch"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "Edinburgh"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": "https://imagesus-ssl.homeaway.com/mda01/0D1C4DA5-85D7-40EB-81ED-AA8D9832C092.4.1",
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "Rainham"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "GB",
+                "city": "York"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "",
+                "whyHere": "",
+                "storyPhoto": null,
+                "yearPurchased": "0",
+                "uniqueBenefits": ""
+            },
+            "contact": {
+                "name": "York Boutique Lets Ltd",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2016",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "IT",
+                "city": "Gergei"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Mino",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "spanish",
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "La Oliva"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "2017",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Belvilla Holiday Rentals",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "dutch"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "IBIZA"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "italian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2018",
+                "redirectUrl": null,
+                "hasPhoneNumber": false,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "PT",
+                "city": "Tavira"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "V&S",
+                "languagesSpoken": [
+                    "english",
+                    "portuguese"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": [
+                    {
+                        "phoneNumber": "969101030"
+                    }
+                ]
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Okrug Gornji"
+            },
+            "ownersListingProfile": {
+                "aboutYou": "Adriatic.hr is the leading agency for private accommodation in Croatia. The agency was founded in 2000 and has been developing and growing ever since. We have expanded our private accommodation offer, we have gained new foreign partner agencies, and we have a growing number of customers. Our main goal is a satisfied customer- before, during and after using our services. We are committed to finding and managing a pleasant stay for our customers in the destination of choice. The agency supports the client from the moment they submit a booking till the end of their stay.",
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "russian",
+                    "italian",
+                    "dutch",
+                    "czech",
+                    "polish",
+                    "hungarian",
+                    "Croatian",
+                    "Slovakian",
+                    "Slovenian",
+                    "Romanian"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2014",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Castelldefels"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": null,
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "spanish",
+                    "russian",
+                    "turkish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2017",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Costa del Silencio"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Carmen Davies",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": null
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "ES",
+                "city": "Girona"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": null,
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "",
+                "languagesSpoken": [
+                    "english"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
+{
+    "data": {
+        "listing": {
+            "address": {
+                "country": "HR",
+                "city": "Zadar"
+            },
+            "ownersListingProfile": {
+                "aboutYou": null,
+                "whyHere": null,
+                "storyPhoto": null,
+                "yearPurchased": "2017",
+                "uniqueBenefits": null
+            },
+            "contact": {
+                "name": "Belvilla Holiday Rentals",
+                "languagesSpoken": [
+                    "english",
+                    "french",
+                    "german",
+                    "dutch"
+                ],
+                "ownerProfilePhoto": null,
+                "memberSince": "2011",
+                "redirectUrl": null,
+                "hasPhoneNumber": true,
+                "phones": []
+            }
+        }
+    }
+},
